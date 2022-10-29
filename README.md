@@ -2,7 +2,7 @@
 FL Studio 20 Manageable files for making Roblox piano compatible soundfonts.
 All the files were made in FL Studio 20 and use respective FL Studio 20 default-included plugins (Fruity Parametric EQ 2 & Fruit Reeverb 2).
 
-To download the FLPs, Please go to the "Releases" inside this directory.
+To download the FLPs, Please go to the "Releases".
 
 //
 
